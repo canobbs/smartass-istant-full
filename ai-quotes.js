@@ -1,0 +1,1 @@
+// AI Quote Generator - Static & dynamic ready logic

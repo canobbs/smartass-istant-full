@@ -1,0 +1,1 @@
+// Full JS for SmartAss-istant: avatars, tone, invite, AI quotes, mood slider, panic override
